@@ -97,3 +97,12 @@ Mejor experiencia visual al abrir, editar o eliminar notas.
 Acceso rápido a notas recientes sin abrir la app.
 ✔️ Buscador por comandos
 Ej.: escribir “#hoy” para ver solo notas del día.
+
+## 📸 Capturas de pantalla 
+
+<img width="459" height="880" alt="Captura de pantalla #1" src="https://github.com/user-attachments/assets/f8c6a7bc-ab07-450e-9aff-71fc3f0548a8" />
+<img width="472" height="881" alt="Captura de pantalla #4" src="https://github.com/user-attachments/assets/038f3cc7-45c6-447a-aa8b-f4d42cb629cf" />
+<img width="485" height="884" alt="Captura de pantalla #3" src="https://github.com/user-attachments/assets/27bab6a0-e65a-4879-a777-c58ec4f55f37" />
+<img width="470" height="866" alt="Captura de pantalla #2" src="https://github.com/user-attachments/assets/e37abbc9-cf48-47c1-a399-81e0884ca008" />
+
+
